@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me lydiaebikumar@gmail.com
 <div align="center">
- <a href="https://www.linkedin.com/in/lydia-ebikumar-114802249/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></img></a> 
- <a href="https://leetcode.com/u/Lydia_E/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="irshadraja" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lydia-ebikumar-114802249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Lydia_E/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 <!-- <a href="https://drive.google.com/file/d/1eBaNvJKJZhEDEL9rQNAqQRAV509K_VkG/view"><img src="https://img.shields.io/badge/Resume-blue?logo=resume&logoColor=white&style=for-the-badge"></img></a> -->
 </div>
 <div id="views" align="center">
