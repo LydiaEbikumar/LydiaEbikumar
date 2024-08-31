@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LydiaEbikumar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on FullStack Project
 - 📫 How to reach me lydiaebikumar@gmail.com
 
 
