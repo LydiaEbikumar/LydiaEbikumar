@@ -7,9 +7,6 @@
 <a href="https://leetcode.com/u/Lydia_E/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 <!-- <a href="https://drive.google.com/file/d/1eBaNvJKJZhEDEL9rQNAqQRAV509K_VkG/view"><img src="https://img.shields.io/badge/Resume-blue?logo=resume&logoColor=white&style=for-the-badge"></img></a> -->
 </div>
-<div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=LydiaEbikumar&style=flat-square&color=blue" alt=""/>
-</div>
 <div align="center">
   <h1 align="left">About Me</h1>
 <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
