@@ -2,13 +2,10 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me lydiaebikumar@gmail.com
-<div id="header" align="center">
-<!--   <img src="https://media1.tenor.com/m/QzUUp20V75sAAAAC/batman-im.gif" height="200"></img> -->
-</div>
 <div align="center">
- <a href="https://www.linkedin.com/in/aruneshkumar-a-5378a7272/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></img></a> 
-   <a href="https://www.instagram.com/arunesh._.kumar/"><img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge"></img></a>
-    <a href="https://drive.google.com/file/d/1eBaNvJKJZhEDEL9rQNAqQRAV509K_VkG/view"><img src="https://img.shields.io/badge/Resume-blue?logo=resume&logoColor=white&style=for-the-badge"></img></a>
+ <a href="https://www.linkedin.com/in/lydia-ebikumar-114802249/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></img></a> 
+ <a href="https://leetcode.com/u/Lydia_E/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="irshadraja" height="30" width="40" /></a>
+<!-- <a href="https://drive.google.com/file/d/1eBaNvJKJZhEDEL9rQNAqQRAV509K_VkG/view"><img src="https://img.shields.io/badge/Resume-blue?logo=resume&logoColor=white&style=for-the-badge"></img></a> -->
 </div>
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=Aruneshkumar07&style=flat-square&color=blue" alt=""/>
