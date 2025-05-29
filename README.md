@@ -4,7 +4,7 @@
 
 
 
-- 📫To reach me **lydiaebikumar@gmail.com**
+- 📫To reach me **lydia.ebikumar29@gmail.com**
 
 - 📄To Know about my experiences: https://drive.google.com/file/d/1Shki640BdRShxAaPN0GvwMyZQuh5Wnq2/view
 
